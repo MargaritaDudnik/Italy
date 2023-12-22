@@ -1,0 +1,103 @@
+.head-text{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 70px;
+    font: 7em sans-serif;
+    background-color: black;
+
+}
+.header{
+    max-width: 100%;
+    max-height: 550px;
+    background: url(https://www.ru.momondo.ua/rimg/dimg/05/fd/515362c8-lm-3638-165cdb13a57.jpg?width=1366&height=768&xhint=2017&yhint=1499&crop=true);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 98%;
+    height: 550px;
+    border: 20px solid black;
+}
+
+
+.content{
+    background-color: black;
+    max-width: 55%;
+    height: 30%;
+    margin: auto;
+
+}
+.block1{
+    background-color: pink;
+    margin-top: 100px;
+    max-width: 85%;
+    height: 400px;
+    display: flex;
+
+}
+.image1{
+    width: 50%;
+    flex: 1;
+
+}
+.img-style{
+    width: 70%;
+    margin-top: 6.5%;
+    border: 10px solid black;
+    margin-left: 20%;
+}
+.info{
+    width: 50%;
+    max-height: 400px;
+    flex: 1;
+
+}
+.city{
+    text-align: center;
+    font-size: 30px;
+    margin-left: 10%;
+}
+.main-text{
+    background-color: white;
+    padding: 50px;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 1em;
+}
+.block2{
+    background-color: #6495ED;
+    margin-top: 100px;
+    max-width: 85%;
+    height: 400px;
+    display: flex;
+    float: right;
+}
+.info2{
+    width: 50%;
+    max-height: 400px;
+    flex: 1;
+
+}
+.city2{
+    text-align: center;
+    font-size: 30px;
+    margin-right: 10%;
+}
+.main-text2{
+    background-color: white;
+    padding: 50px;
+    margin-right: 10%;
+    text-align: center;
+    font-size: 1em;
+}
+.image2{
+    width: 50%;
+    flex: 1;
+
+}
+.img-style2{
+    width: 70%;
+    margin-top: 7%;
+    border: 10px solid black;
+    margin-left: 10%;
+}
